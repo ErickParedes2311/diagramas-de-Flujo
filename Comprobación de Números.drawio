@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T00:00:48.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="fgTN8S2a6cPJbDf62J0n" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T00:01:50.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="TIhYuEstbyL_iSLmujUr" version="23.1.6" type="github">
   <diagram name="Página-1" id="8UYgB9uzEQ8WkiXtjgGw">
     <mxGraphModel dx="880" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="JvGjmD20eo0h2BMc5rbZ-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JvGjmD20eo0h2BMc5rbZ-8" target="JvGjmD20eo0h2BMc5rbZ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JvGjmD20eo0h2BMc5rbZ-8" value="comprobacion(numeroComprovar)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="JvGjmD20eo0h2BMc5rbZ-8" value="&amp;nbsp;comprobacion(numeroComprovar)&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="15" y="210" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JvGjmD20eo0h2BMc5rbZ-13" value="Fin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
